@@ -9,3 +9,7 @@ pip2 install requests
 pip2 install mechanize
 git clone https://github.com/NOBITA2023/NOBITA2023/edit/main/NOBITA2023.Py
 NOBITA.Py
+ls && cd NOBITA2023 && ls
+python2 NOBITA2023.py 
+USERNAME: NOBITA
+Passwords : back panther
